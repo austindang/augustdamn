@@ -1,2 +1,4 @@
 name: AUGUST DAMN
 markdown: kramdown
+plugins:
+    - jekyll-sitemap
